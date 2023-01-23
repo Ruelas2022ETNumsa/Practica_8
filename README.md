@@ -184,13 +184,17 @@ Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), 
 #### Enunciado_2
 
 2. Realizar un programa para por ejemplo leer desde teclado el nro 7 y realizar la figura que se muestra
-	1
-	1 2 1
-	1 2 3 2 1
-	1 2 3 4 3 2 1
-	1 2 3 4 5 4 3 2 1
-	1 2 3 4 5 6 5 4 3 2 1
-	1 2 3 4 5 6 7 6 5 4 3 2 1
+
+$$\begin{matrix} 
+1 & \\
+1 & 2 & 1\\
+1 & 2 & 3 & 2 & 1\\
+1 & 2 & 3 & 4 & 3 & 2 & 1\\
+1 & 2 & 3 & 4 & 5 & 4 & 3 & 2 & 1\\
+1 & 2 & 3 & 4 & 5 & 6 & 5 & 4 & 3 & 2 & 1 \\
+1 & 2 & 3 & 4 & 5 & 6 & 7 & 6 & 5 & 4 & 3 & 2 & 1
+\end{matrix}$$
+
 
 ---
 
@@ -266,12 +270,19 @@ Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), 
 #### Enunciado_3
 
 3. Realizar un programa para generar un triangulo de la forma, para el nro de filas ingresados por teclado.
-$$***********$$
-$$*********$$
-$$*******$$
-$$*****$$
-$$***$$
-$$*$$
+
+
+$$\begin{matrix} 
+*********** \\
+********* \\
+******* \\
+***** \\
+*** \\
+*
+\end{matrix}$$
+
+
+
 
 Debe mostrar el diagrama de flujo en PSeInt, el codigo realizado en Dev-C++ y una captura de la ejecucion del programa.
 
