@@ -35,5 +35,6 @@ main(){
 		}
 		printf("\n");
 	}
+	printf("\n\n\tTerminando el programa");
 	getch();
 }
