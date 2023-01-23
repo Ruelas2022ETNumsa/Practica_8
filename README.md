@@ -53,8 +53,10 @@ y una captura de la ejecución del programa.
 >- La condicional if{}else{}, si fuera el caso de operar la tarea de "else" entonces el programa mostrata un texto aclarando que se ingresaron datos erroneos y terminara el programa.
 >- La condicional if{}else{}, cuando el usuario ingresa valores validos el programa realizara las tareas necesarias para resolver el problema planteado.
 
+  
+
 <p align="center">
-  <img   src="P8_E1/P8_E1_Dv2Principal.png">
+  <img   src="P8_E1/P8_E1_D_v2Principal.png">
 </p>
 
 > ${\color{TealBlue}\mbox{Flujograma  (N terminos)}}$
@@ -67,8 +69,10 @@ y una captura de la ejecución del programa.
 > - Se inicia una condicional if() para mostrar los terminos calculados, solo los terminos del 1 a 7, para no saturar lo mostrado en pantalla.
 > - Cierra el ciclo do{}while(), con la condicional para que solo se termine el ciclo si y solo si el valor del termino n-simo es igual a 0.
 
+
+
 <p align="center">
-  <img   src="P8_E1/P8_E1_Dv2n_terminos.png">
+  <img   src="P8_E1/P8_E1_D_v2n_terminos.png">
 </p>
 
 
@@ -77,8 +81,10 @@ y una captura de la ejecución del programa.
 > - Se inicializa la variable "pot", en un valor igual a 1, para que dentro de esta se guarde el valor final calculado.
 > - Esto se logra con un ciclo for(){} que tiene a la variable "j" como contador, y a la variable "end-1" para el valor de la cantidad de repeticiones que se desea.
 
+
+
 <p align="center">
-  <img   src="P8_E1/P8_E1_Dv2PPotencia.png">
+  <img   src="P8_E1/P8_E1_D_v2Potencia.png">
 </p>
 
 
